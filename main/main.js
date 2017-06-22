@@ -1,5 +1,6 @@
-// Write your cade below:
-module.exports = function main() {
-  var x = 12%5;
-  document.write(x);
-};
+// Write your code below:
+module.exports = function main(a,b) {
+  var c = a%b;
+  alert (c);
+}
+main();
